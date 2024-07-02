@@ -31,7 +31,7 @@ Atuar como desenvolvedor front-end.
 | Curso                                           | Instituição          | Mês/Ano        | Carga Horária  |
 |-------------------------------------------------|----------------------|----------------|----------------|
 | Inteligência Artificial                         | Conquer              | Junho/2024     | 10h            |
-| Trilha Digital | Coders 24 | Front End          | Ada Tech             | Junho/2024     | 19h            |
+| Trilha Digital - Coders 24 - Front End          | Ada Tech             | Junho/2024     | 19h            |
 | Semana do Herói Edição 04                       | Hero Code            | Junho/2024     | 5h             |
 | Practical GitHub Copilot                        | LinkedIn Learning    | Maio/2024      | 1h             |
 | Imersão Inteligência Artificial                 | Alura                | Maio/2024      | 6h             |
