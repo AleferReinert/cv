@@ -36,6 +36,20 @@ Atuar como desenvolvedor front-end.
     <th>Carga Horária</th>
   </tr>
   <tr>
+    <td>NLW Journey - Reactjs</td>
+    <td>Rocketseat</td>
+    <td>Julho/2024</td>
+    <td>4h</td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      <details>
+        <summary>Descrição</summary>
+        Lorem ipsum.
+      </details>
+    </td>
+  </tr>
+  <tr>
     <td>Inteligência Artificial</td>
     <td>Conquer</td>
     <td>Junho/2024</td>
