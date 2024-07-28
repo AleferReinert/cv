@@ -41,10 +41,23 @@ Atuar como desenvolvedor front-end.
     <td>Junho/2024</td>
     <td>10h</td>
   </tr>
+   <tr>
+    <td colspan='5'>
+    <details>
+      <summary>Resumo</summary>
+      
+- Estratégias para dominar IA.   
+- Eleve sua produtividade com IA.    
+- IA como aliada ao processo criativo.    
+- Veja sua carreira decolar com IA.   
+- 3 estratégias para ser um(a) profissional de destaque na era da IA.
+    </details>
+    </td>
+   </tr>
  <tr>
     <td colspan='5'>
     <details>
-      <summary>Descrição</summary>
+      <summary>Descrição completa</summary>
       
 #### ESTRATÉGIAS PARA DOMINAR IA
 - Como não ser substituído(a) pela IA
