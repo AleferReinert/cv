@@ -28,26 +28,297 @@ Atuar como desenvolvedor front-end.
 - Ensino Médio - E. E. B. Professor Honório Miranda - 2008 a 2010
 
 ## Formação Complementar
-| Curso                                           | Instituição          | Mês/Ano        | Carga Horária  |
-|-------------------------------------------------|----------------------|----------------|----------------|
-| Inteligência Artificial                         | Conquer              | Junho/2024     | 10h            |
-| Trilha Digital - Coders 24 - Front End          | Ada Tech             | Junho/2024     | 19h            |
-| Semana do Herói Edição 04                       | Hero Code            | Junho/2024     | 5h             |
-| Practical GitHub Copilot                        | LinkedIn Learning    | Maio/2024      | 1h             |
-| Imersão Inteligência Artificial                 | Alura                | Maio/2024      | 6h             |
-| Inglês 1                                        | Aprenda Mais         | Abril/2024     | 30h            |
-| Trilha fluêncIA                                 | ENAP                 | Abril/2024     | 10h            |
-| NLW Unite - Nodejs                              | Rocketseat           | Abril/2024     | 5h             |
-| NLW Unite - Reactjs                             | Rocketseat           | Abril/2024     | 5h             |
-| Curso Introdução ao React                       | Refatorando          | Março/2024     | 3h             |
-| Curso Introdução ao TypeScript                  | Refatorando          | Março/2024     | 1h             |
-| Curso Introdução ao Git e Github                | Refatorando          | Março/2024     | 1:30h          |
-| Fundamentos de Banco de Dados                   | Descomplica          | Janeiro/2024   | 30h            |
-| Organização de Produtividade Remota             | Descomplica          | Janeiro/2024   | 30h            |
-| PHP - MYSQL - INICIANTE                         | Unova Cursos         | Novembro/2023  | 50h            |
-| Javascript Para Iniciantes                      | Unova Cursos         | Outubro/2022   | 50h            |
-| CC50: Introdução à Ciência da Computação        | Fundação Estudar     | Setembro/2022  | 70h            |
-| Formação Design Gráfico                         | ProWay Informática   | Fevereiro/2012 | 80h            |
+<table>
+  <tr>
+    <th>Curso</th>
+    <th>Instituição</th>
+    <th>Mês/Ano</th>
+    <th>Carga Horária</th>
+  </tr>
+  <tr>
+    <td>Inteligência Artificial</td>
+    <td>Conquer</td>
+    <td>Junho/2024</td>
+    <td>10h</td>
+  </tr>
+ <tr>
+    <td colspan='5'>
+    <details>
+      <summary>Descrição</summary>
+      
+#### ESTRATÉGIAS PARA DOMINAR IA
+- Como não ser substituído(a) pela IA
+- A inteligência por trás da IA
+- Faça as perguntas certas para ter ótimas respostas da IA
+- Case ZTX-Labs: como uma empresa foi criada do zero com o uso do ChatGPT
+- Facilite seu dia a dia com ChatGPT, Gemini e Copilot
+- Bônus: Desvendando o ChatGPT4 Omni
+- Bônus: Transforme o medo da IA em vontade de aprender
+
+#### ELEVE SUA PRODUTIVIDADE COM IA
+- Construção de textos assertivos e de maneira mais ágil
+- Ferramentas para tornar suas reuniões mais produtivas
+- Automatização de tarefas repetitivas
+- Bônus: IA em ação: cases profissionais de sucesso
+- Bônus: Como aproveitar no trabalho as facilidades que a IA proporciona
+
+#### IA COMO ALIADA AO PROCESSO CRIATIVO
+- Geração, priorização e seleção de ideias usando IA
+- Funcionalidades da IA para análise de dados e insights criativos
+- Criação de imagens e videos com apoio da IA
+- Como montar apresentações usando IA
+
+#### VEJA SUA CARREIRA DECOLAR COM IA
+- Mapeamento de competências e padrões de trabalho
+- Como melhorar a autogestão usando a IA
+- Ferramentas para aumentar repertório e acelerar o aprendizado
+- Plano para aplicação de IA na sua rotina
+- Bônus: Como integrar as inteligências humana e artificial
+
+#### 3 ESTRATÉGIAS PARA SER UM(A) PROFISSIONAL DE DESTAQUE NA ERA DA IA
+- Masterclass online.
+<details>  
+    </td>
+  </tr>
+  <tr>
+    <td>Trilha Digital - Coders 24 - Front End</td>
+    <td>Ada Tech</td>
+    <td>Junho/2024</td>
+    <td>19h</td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      <details>
+        <summary>Descrição</summary>
+        Lorem ipsum.
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td>Semana do Herói Edição 04</td>
+    <td>Hero Code</td>
+    <td>Junho/2024</td>
+    <td>5h</td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      <details>
+        <summary>Descrição</summary>
+        Lorem ipsum.
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td>Practical GitHub Copilot</td>
+    <td>LinkedIn Learning</td>
+    <td>Maio/2024</td>
+    <td>1h</td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      <details>
+        <summary>Descrição</summary>
+        Lorem ipsum.
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td>Imersão Inteligência Artificial</td>
+    <td>Alura</td>
+    <td>Maio/2024</td>
+    <td>6h</td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      <details>
+        <summary>Descrição</summary>
+        Lorem ipsum.
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td>Inglês 1</td>
+    <td>Aprenda Mais</td>
+    <td>Abril/2024</td>
+    <td>30h</td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      <details>
+        <summary>Descrição</summary>
+        Lorem ipsum.
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td>Trilha fluêncIA</td>
+    <td>ENAP</td>
+    <td>Abril/2024</td>
+    <td>10h</td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      <details>
+        <summary>Descrição</summary>
+        Lorem ipsum.
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td>NLW Unite - Nodejs</td>
+    <td>Rocketseat</td>
+    <td>Abril/2024</td>
+    <td>5h</td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      <details>
+        <summary>Descrição</summary>
+        Lorem ipsum.
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td>NLW Unite - Reactjs</td>
+    <td>Rocketseat</td>
+    <td>Abril/2024</td>
+    <td>5h</td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      <details>
+        <summary>Descrição</summary>
+        Lorem ipsum.
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td>Curso Introdução ao React</td>
+    <td>Refatorando</td>
+    <td>Março/2024</td>
+    <td>3h</td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      <details>
+        <summary>Descrição</summary>
+        Lorem ipsum.
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td>Curso Introdução ao TypeScript</td>
+    <td>Refatorando</td>
+    <td>Março/2024</td>
+    <td>1h</td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      <details>
+        <summary>Descrição</summary>
+        Lorem ipsum.
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td>Curso Introdução ao Git e Github</td>
+    <td>Refatorando</td>
+    <td>Março/2024</td>
+    <td>1:30h</td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      <details>
+        <summary>Descrição</summary>
+        Lorem ipsum.
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td>Fundamentos de Banco de Dados</td>
+    <td>Descomplica</td>
+    <td>Janeiro/2024</td>
+    <td>30h</td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      <details>
+        <summary>Descrição</summary>
+        Lorem ipsum.
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td>Organização de Produtividade Remota</td>
+    <td>Descomplica</td>
+    <td>Janeiro/2024</td>
+    <td>30h</td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      <details>
+        <summary>Descrição</summary>
+        Lorem ipsum.
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td>PHP - MYSQL - INICIANTE</td>
+    <td>Unova Cursos</td>
+    <td>Novembro/2023</td>
+    <td>50h</td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      <details>
+        <summary>Descrição</summary>
+        Lorem ipsum.
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td>Javascript Para Iniciantes</td>
+    <td>Unova Cursos</td>
+    <td>Outubro/2022</td>
+    <td>50h</td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      <details>
+        <summary>Descrição</summary>
+        Lorem ipsum.
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td>CC50: Introdução à Ciência da Computação</td>
+    <td>Fundação Estudar</td>
+    <td>Setembro/2022</td>
+    <td>70h</td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      <details>
+        <summary>Descrição</summary>
+        Lorem ipsum.
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td>Formação Design Gráfico</td>
+    <td>ProWay Informática</td>
+    <td>Fevereiro/2012</td>
+    <td>80h</td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      <details>
+        <summary>Descrição</summary>
+        Lorem ipsum.
+      </details>
+    </td>
+  </tr>
+</table>
 
 ## Idiomas
 - Inglês - Básico - Leitura
