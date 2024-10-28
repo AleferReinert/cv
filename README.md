@@ -45,8 +45,32 @@ Atuar como desenvolvedor front-end.
     <td colspan="4">
       <details>
         <summary>Descrição</summary>
-        Lorem ipsum.
-      </details>
+        
+#### Introdução ao curso
+- O que é Inteligência Emocional 
+- Seus componentes e competências 
+- Teste de Inteligência Emocional
+
+#### Autoconsciência 
+- O que é autoconsciência 
+- Diferenças entre emoção e sentimento 
+- Sequestro e esgotamento emocional
+
+#### Autogestão 
+- O que é a autogestão 
+- Foco e autocontrole 
+- Técnicas de equilíbrio emocional
+
+#### Consciência Social 
+- O que é consciência social 
+- Seus componentes e competências 
+- Teste de Inteligência Emocional
+
+#### Gestão de Relacionamentos
+- Aprenda sobre comunicação 
+- Gestão de conflitos 
+- Influência e inspiração
+</details>
     </td>
   </tr>
   <tr>
@@ -59,7 +83,7 @@ Atuar como desenvolvedor front-end.
     <td colspan="4">
       <details>
         <summary>Descrição</summary>
-        Lorem ipsum.
+        Desenvolvimento de uma aplicação front-end em ReactJS, aplicação dos conceitos de Propriedades, Estados e Componentes,tipagem com Typescript,tooling com Vite, interface responsiva com TailwindCSS, consumo de API Node.js, picker de calendário.
       </details>
     </td>
   </tr>
@@ -69,23 +93,10 @@ Atuar como desenvolvedor front-end.
     <td>Junho/2024</td>
     <td>10h</td>
   </tr>
-   <tr>
-    <td colspan='5'>
-    <details>
-      <summary>Resumo</summary>
-      
-- Estratégias para dominar IA.   
-- Eleve sua produtividade com IA.    
-- IA como aliada ao processo criativo.    
-- Veja sua carreira decolar com IA.   
-- 3 estratégias para ser um(a) profissional de destaque na era da IA.
-    </details>
-    </td>
-   </tr>
  <tr>
     <td colspan='5'>
     <details>
-      <summary>Descrição completa</summary>
+      <summary>Descrição</summary>
       
 #### ESTRATÉGIAS PARA DOMINAR IA
 - Como não ser substituído(a) pela IA
@@ -131,8 +142,14 @@ Atuar como desenvolvedor front-end.
     <td colspan="4">
       <details>
         <summary>Descrição</summary>
-        Lorem ipsum.
-      </details>
+        
+- Git e versionamento
+- HTML
+- CSS
+- Javascript
+- React básico
+- Introdução ao Angular
+</details>
     </td>
   </tr>
   <tr>
@@ -145,7 +162,7 @@ Atuar como desenvolvedor front-end.
     <td colspan="4">
       <details>
         <summary>Descrição</summary>
-        Lorem ipsum.
+        Desenvolvimento de um sistema de pesquisa semântica utilizando React.js, Node.js, MongoDB, Typescript e OpenAI.
       </details>
     </td>
   </tr>
@@ -159,7 +176,7 @@ Atuar como desenvolvedor front-end.
     <td colspan="4">
       <details>
         <summary>Descrição</summary>
-        Lorem ipsum.
+        Github, Github Copilot.
       </details>
     </td>
   </tr>
@@ -173,8 +190,13 @@ Atuar como desenvolvedor front-end.
     <td colspan="4">
       <details>
         <summary>Descrição</summary>
-        Lorem ipsum.
-      </details>
+        
+- Usar o Gemini, com exemplos práticos de modelos de IA do Google
+- Criar prompts profissionais para obter respostas assertivas da IA
+- Utilizar o Google IA Studio para prototipar prompts com modelos generativos do Google
+- Conectar o Gemini API ao Python com o Google Colab
+- Criar um chatbot e um sistema de busca de documentos com o Gemini API
+</details>
     </td>
   </tr>
   <tr>
@@ -187,7 +209,7 @@ Atuar como desenvolvedor front-end.
     <td colspan="4">
       <details>
         <summary>Descrição</summary>
-        Lorem ipsum.
+        Identificação e caracterização pessoal, localização no tempo e no espaço.
       </details>
     </td>
   </tr>
@@ -201,8 +223,13 @@ Atuar como desenvolvedor front-end.
     <td colspan="4">
       <details>
         <summary>Descrição</summary>
-        Lorem ipsum.
-      </details>
+        
+- A História da Inteligência Artificial
+- Inteligência Artificial Generativa
+- A Evolução das buscas Online
+- Como ser mais Produtivo usando o Bing Chat
+- Ética em Inteligência Artificial
+</details>
     </td>
   </tr>
   <tr>
@@ -215,8 +242,15 @@ Atuar como desenvolvedor front-end.
     <td colspan="4">
       <details>
         <summary>Descrição</summary>
-        Lorem ipsum.
-      </details>
+        
+- Desenvolvimento de aplicação back-end em Node.js
+- Aplicação dos conceitos de API REST
+- Utilização de TypeScript
+- Uso do framework Fastify
+- Integração do Prisma ORM
+- Utilização do SQLite
+- Validação de dados com Zod
+</details>
     </td>
   </tr>
   <tr>
@@ -229,8 +263,15 @@ Atuar como desenvolvedor front-end.
     <td colspan="4">
       <details>
         <summary>Descrição</summary>
-        Lorem ipsum.
-      </details>
+        
+- Desenvolvimento de uma aplicação front-end em ReactJS
+- Aplicação dos conceitos de Propriedades, Estados e Componentes
+- Tipagem com Typescript
+- Tooling com Vite
+- Interface responsiva com TailwindCSS
+- Consumo de API Node.js
+- Uso de URL states
+</details>
     </td>
   </tr>
   <tr>
@@ -242,8 +283,8 @@ Atuar como desenvolvedor front-end.
   <tr>
     <td colspan="4">
       <details>
-        <summary>Descrição</summary>
-        Lorem ipsum.
+        <summary>Descrição</summary>  
+        Descobrir os fundamentos do React e sua abordagem baseada em componentes para o desenvolvimento de interfaces.
       </details>
     </td>
   </tr>
@@ -257,7 +298,7 @@ Atuar como desenvolvedor front-end.
     <td colspan="4">
       <details>
         <summary>Descrição</summary>
-        Lorem ipsum.
+        Dominar os conceitos fundamentais do TypeScript, incluindo tipagem estática, interfaces e decoradores.
       </details>
     </td>
   </tr>
@@ -271,8 +312,11 @@ Atuar como desenvolvedor front-end.
     <td colspan="4">
       <details>
         <summary>Descrição</summary>
-        Lorem ipsum.
-      </details>
+        
+- Explorar os conceitos fundamentais do controle de versão e entender por que o Git se tornou tão popular.
+- Aprender a configurar repositórios, criar branches e mesclar código de forma organizada.
+- Descobrir como usar o GitHub para hospedar seus projetos, colaborar com outros desenvolvedores e gerenciar problemas.
+</details>
     </td>
   </tr>
   <tr>
@@ -285,8 +329,17 @@ Atuar como desenvolvedor front-end.
     <td colspan="4">
       <details>
         <summary>Descrição</summary>
-        Lorem ipsum.
-      </details>
+        
+- Introdução aos Sistemas de Bancos de Dados
+- Banco de Dados x SGBD´s
+- Prática sobre MER Conceitual
+- Tipos de Relacionamentos e Estabelecimento de Chaves
+- Desenvolvimento do MER Lógico e Físico
+- Linguagem SQL - Comandos DDL, DML e DQL
+- Consulta com Funções de uma única Linha
+- Joins
+- Funções de Grupo e Subconsultas
+</details>
     </td>
   </tr>
   <tr>
@@ -299,8 +352,16 @@ Atuar como desenvolvedor front-end.
     <td colspan="4">
       <details>
         <summary>Descrição</summary>
-        Lorem ipsum.
-      </details>
+        
+- Menos é Melhor
+- Ferramentas de Produtividade Remota
+- Técnicas de Organização de Tempo
+- Neutralize seu maior Inimigo
+- Saúde Física e Mental
+- Rotinas Inteligentes
+- Técnicas para Potencializar Resultados
+- Gestão de Tempo 
+</details>
     </td>
   </tr>
   <tr>
@@ -313,8 +374,14 @@ Atuar como desenvolvedor front-end.
     <td colspan="4">
       <details>
         <summary>Descrição</summary>
-        Lorem ipsum.
-      </details>
+        
+- Preparação do ambiente: Eclipse, Xampp
+- Criação de projeto PHP, teste de código
+- Controle de fluxo e estruturas em PHP
+- Conexão PHP-MySQL via linha de comando
+- Integração: PHP, PHPMyAdmin, MySQL, HTML
+- Execução de comandos MySQL no navegador
+</details>
     </td>
   </tr>
   <tr>
@@ -327,7 +394,7 @@ Atuar como desenvolvedor front-end.
     <td colspan="4">
       <details>
         <summary>Descrição</summary>
-        Lorem ipsum.
+        Variáveis, constantes, tipos, objetos, arrays, functions, operadores, loops, etc.
       </details>
     </td>
   </tr>
@@ -341,8 +408,19 @@ Atuar como desenvolvedor front-end.
     <td colspan="4">
       <details>
         <summary>Descrição</summary>
-        Lorem ipsum.
-      </details>
+        
+- Compreendendo conceitos básicos de programação com Scratch
+- Linguagem C
+- Arrays
+- Algoritmos
+- Memória
+- Estruturas de Dados
+- Python
+- SQL
+- HTML, CSS e JavaScript
+- Flask
+- Ética
+</details>
     </td>
   </tr>
   <tr>
@@ -355,7 +433,7 @@ Atuar como desenvolvedor front-end.
     <td colspan="4">
       <details>
         <summary>Descrição</summary>
-        Lorem ipsum.
+        Adobe Photoshop avançado.
       </details>
     </td>
   </tr>
@@ -370,6 +448,6 @@ Atuar como desenvolvedor front-end.
 | Front-end          | Bootstrap, Styled Components, Tailwind, CSS, Sass, Less, HTML, JavaScript, TypeScript, React, Next.js, JQuery, Git, GitHub Grunt, Gulp       |
 | Ferramentas        | Figma, Photoshop                         |
 | Inteligência Artificial | Google AI Studio, OpenAI, GitHub Copilot |
-| Back-end/CMS       | Node.js, MongoDB, Python, PHP, GraphQL, Strapi                                       |
-| Testes             | Jest, Testing Library, Storybook                           |
+| Back-end/CMS       | Node.js, MongoDB, Python, PHP, GraphQL, Apollo, Strapi                                       |
+| Testes             | Testing Library, Storybook                           |
 | Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobile first)  |
