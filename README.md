@@ -1,6 +1,6 @@
 # Alefer Reinert
 - Lagoa, Gaspar - SC
-- [aleferreinert@gmail.com](aleferreinert@gmail.com)
+- [aleferreinert@gmail.com](mailto:aleferreinert@gmail.com)
 - [(47) 99955-8118](https://wa.me/5547999558118)
 - [http://github.com/aleferreinert](http://github.com/aleferreinert)
 - [http://linkedin.com/in/aleferreinert](http://linkedin.com/in/aleferreinert)
