@@ -57,12 +57,8 @@ Atuar como desenvolvedor front-end.
 ## Idiomas
 - Inglês - Básico - Leitura
 
-| Curso                                    | Instituição         | Mês/Ano        | Carga Horária | Descrição |
-|------------------------------------------|---------------------|----------------|---------------|-------------------|
-| Inteligência Emocional na Prática        | Fundação Estudar    | Outubro/2024   | 6h            | [Visualizar](#inteligencia-emocional-na-pratica) |
-| NLW Journey - ReactJS                    | Rocketseat          | Julho/2024     | 4h            | [Visualizar](#nlw-journey-reactjs) |
-
 ## Habilidades
+testee
 
 | Área                        | Tecnologias |
 |-----------------------------|-------------|
@@ -73,10 +69,11 @@ Atuar como desenvolvedor front-end.
 | Testes                      | Testing Library, Storybook |
 | Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobile first) |
 
-| Curso                                    | Instituição         | Mês/Ano        | Carga Horária | Descrição |
-|------------------------------------------|---------------------|----------------|---------------|-------------------|
-| Inteligência Emocional na Prática        | Fundação Estudar    | Outubro/2024   | 6h            | [Visualizar](#inteligencia-emocional-na-pratica) |
-| NLW Journey - ReactJS                    | Rocketseat          | Julho/2024     | 4h            | [Visualizar](#nlw-journey-reactjs) |
+
+testeee
+oiii
+## testando
+### testando 
 ## Descrições dos cursos
 
 <a name="inteligencia-emocional-na-pratica"></a>
