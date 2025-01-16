@@ -31,42 +31,42 @@ Atuar como desenvolvedor front-end.
 
 ## Formação Complementar
 
-| Curso                              | Instituição         | Mês/Ano      | Carga Horária | Descrição |
-|------------------------------------|---------------------|--------------|---------------|-------------------|
-| Inteligência Emocional na Prática  | Fundação Estudar    | Outubro/2024 | 6h            | [Visualizar](#inteligencia-emocional-na-pratica) |
-| NLW Journey - ReactJS              | Rocketseat          | Julho/2024   | 4h            | [Visualizar](#nlw-journey-reactjs) |
-| Inteligência Artificial            | Conquer             | Junho/2024   | 10h           | [Visualizar](#inteligencia-artificial) |
-| Trilha Digital - Coders 24         | Ada Tech            | Junho/2024   | 19h           | [Visualizar](#trilha-digital-coders-24) |
-| Semana do Herói Edição 04          | Hero Code           | Junho/2024   | 5h            | [Visualizar](#semana-do-heroi-edicao-04) |
-| Practical GitHub Copilot           | LinkedIn Learning   | Maio/2024    | 1h            | [Visualizar](#practical-github-copilot) |
-| Imersão Inteligência Artificial    | Alura               | Maio/2024    | 6h            | [Visualizar](#imersao-inteligencia-artificial) |
-| Inglês 1                           | Aprenda Mais        | Abril/2024   | 30h           | [Visualizar](#ingles-1) |
-| Trilha fluenciA                    | ENAP                | Abril/2024   | 10h           | [Visualizar](#trilha-fluencia) |
-| NLW Unite - NodeJS                 | Rocketseat          | Abril/2024   | 5h            | [Visualizar](#nlw-unite-nodejs) |
-| NLW Unite - ReactJS                | Rocketseat          | Abril/2024   | 5h            | [Visualizar](#nlw-unite-reactjs) |
-| Curso Introdução ao React          | Refatorando         | Março/2024   | 3h            | [Visualizar](#curso-introducao-ao-react) |
-| Curso Introdução ao TypeScript     | Refatorando         | Março/2024   | 1h            | [Visualizar](#curso-introducao-ao-typescript) |
-| Curso Introdução ao Git e GitHub   | Refatorando         | Março/2024   | 1:30h         | [Visualizar](#curso-introducao-ao-git-e-github) |
-| Fundamentos de Banco de Dados      | Descomplica         | Janeiro/2024 | 30h           | [Visualizar](#fundamentos-de-banco-de-dados) |
-| Organização de Produtividade Remota| Descomplica         | Janeiro/2024 | 30h           | [Visualizar](#organizacao-de-produtividade-remota) |
-| PHP - MYSQL - INICIANTE            | Unova Cursos        | Novembro/2023| 50h           | [Visualizar](#php-mysql-iniciante) |
-| Javascript Para Iniciantes         | Unova Cursos        | Outubro/2022 | 50h           | [Visualizar](#javascript-para-iniciantes) |
-| CC50: Introdução à Ciência da Computação | Fundação Estudar | Setembro/2022 | 70h          | [Visualizar](#cc50-introducao-a-ciencia-da-computacao) |
-| Formação Design Gráfico            | ProWay Informática  | Fevereiro/2012 | 80h          | [Visualizar](#formacao-design-grafico) |
+| Curso                                    | Instituição         | Mês/Ano        | Carga Horária | Descrição |
+|------------------------------------------|---------------------|----------------|---------------|-------------------|
+| Inteligência Emocional na Prática        | Fundação Estudar    | Outubro/2024   | 6h            | [Visualizar](#inteligencia-emocional-na-pratica) |
+| NLW Journey - ReactJS                    | Rocketseat          | Julho/2024     | 4h            | [Visualizar](#nlw-journey-reactjs) |
+| Inteligência Artificial                  | Conquer             | Junho/2024     | 10h           | [Visualizar](#inteligencia-artificial) |
+| Trilha Digital - Coders 24               | Ada Tech            | Junho/2024     | 19h           | [Visualizar](#trilha-digital-coders-24) |
+| Semana do Herói Edição 04                | Hero Code           | Junho/2024     | 5h            | [Visualizar](#semana-do-heroi-edicao-04) |
+| Practical GitHub Copilot                 | LinkedIn Learning   | Maio/2024      | 1h            | [Visualizar](#practical-github-copilot) |
+| Imersão Inteligência Artificial          | Alura               | Maio/2024      | 6h            | [Visualizar](#imersao-inteligencia-artificial) |
+| Inglês 1                                 | Aprenda Mais        | Abril/2024     | 30h           | [Visualizar](#ingles-1) |
+| Trilha fluenciA                          | ENAP                | Abril/2024     | 10h           | [Visualizar](#trilha-fluencia) |
+| NLW Unite - NodeJS                       | Rocketseat          | Abril/2024     | 5h            | [Visualizar](#nlw-unite-nodejs) |
+| NLW Unite - ReactJS                      | Rocketseat          | Abril/2024     | 5h            | [Visualizar](#nlw-unite-reactjs) |
+| Curso Introdução ao React                | Refatorando         | Março/2024     | 3h            | [Visualizar](#curso-introducao-ao-react) |
+| Curso Introdução ao TypeScript           | Refatorando         | Março/2024     | 1h            | [Visualizar](#curso-introducao-ao-typescript) |
+| Curso Introdução ao Git e GitHub         | Refatorando         | Março/2024     | 1:30h         | [Visualizar](#curso-introducao-ao-git-e-github) |
+| Fundamentos de Banco de Dados            | Descomplica         | Janeiro/2024   | 30h           | [Visualizar](#fundamentos-de-banco-de-dados) |
+| Organização de Produtividade Remota      | Descomplica         | Janeiro/2024   | 30h           | [Visualizar](#organizacao-de-produtividade-remota) |
+| PHP - MYSQL - INICIANTE                  | Unova Cursos        | Novembro/2023  | 50h           | [Visualizar](#php-mysql-iniciante) |
+| Javascript Para Iniciantes               | Unova Cursos        | Outubro/2022   | 50h           | [Visualizar](#javascript-para-iniciantes) |
+| CC50: Introdução à Ciência da Computação | Fundação Estudar    | Setembro/2022  | 70h           | [Visualizar](#cc50-introducao-a-ciencia-da-computacao) |
+| Formação Design Gráfico                  | ProWay Informática  | Fevereiro/2012 | 80h           | [Visualizar](#formacao-design-grafico) |
 
 ## Idiomas
 - Inglês - Básico - Leitura
 
 ## Habilidades
 
-| Área                        | Tecnologias                                                                                                                            |
-|-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| Área                        | Tecnologias |
+|-----------------------------|-------------|
 | Front-end                   | Bootstrap, Styled Components, Tailwind, CSS, Sass, Less, HTML, JavaScript, TypeScript, React, Next.js, JQuery, Git, GitHub Grunt, Gulp |
-| Ferramentas                 | Figma, Photoshopvb                                                                                                                     |
-| Inteligência Artificial     | Google AI Studio, OpenAI, GitHub Copilot                                                                                               |
-| Back-end/CMS                | Node.js, MongoDB, Python, PHP, GraphQL, Apollo, Strapi                                                                                 |
-| Testes                      | Testing Library, Storybook                                                                                                             |
-| Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobile first)                                                                              |
+| Ferramentas                 | Figma, Photoshopvb |
+| Inteligência Artificial     | Google AI Studio, OpenAI, GitHub Copilot |
+| Back-end/CMS                | Node.js, MongoDB, Python, PHP, GraphQL, Apollo, Strapi |
+| Testes                      | Testing Library, Storybook |
+| Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobile first) |
 
 ## Descrições dos cursos
 
