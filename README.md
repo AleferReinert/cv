@@ -1,3 +1,15 @@
+## Formação Complementar
+
+| Curso                              | Instituição         | Mês/Ano      | Carga Horária | Descrição |
+|------------------------------------|---------------------|--------------|---------------|-------------------|
+| Inteligência Emocional na Prática  | Fundação Estudar    | Outubro/2024 | 6h            | [Visualizar](#my-custom-anchor-point) |
+| NLW Journey - ReactJS              | Rocketseat          | Julho/2024   | 4h            | [Visualizar](#nlw-journey-reactjs) |
+| Inteligência Artificial            | Conquer             | Junho/2024   | 10h           | [Visualizar](#inteligencia-artificial) |
+
+
+
+
+
 # Alefer Reinert
 - Lagoa, Gaspar - SC
 - [aleferreinert@gmail.com](aleferreinert@gmail.com)
@@ -439,6 +451,7 @@ Atuar como desenvolvedor front-end.
   </tr>
 </table>
 
+
 ## Idiomas
 - Inglês - Básico - Leitura
 
@@ -451,3 +464,7 @@ Atuar como desenvolvedor front-end.
 | Back-end/CMS       | Node.js, MongoDB, Python, PHP, GraphQL, Apollo, Strapi                                       |
 | Testes             | Testing Library, Storybook                           |
 | Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobile first)  |
+
+<a name="my-custom-anchor-point"></a>
+## Inteligência Emocional na Prática
+Descrição sobre o curso de Formação Complementar.
