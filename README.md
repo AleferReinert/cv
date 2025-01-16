@@ -481,6 +481,7 @@ Atuar como desenvolvedor front-end.
 | Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobile first)  |
 
 ## Descrições dos cursos
+<a name="inteligencia-emocional-na-pratica"></a>
 ### Inteligência Emocional na Prática
 #### Introdução ao curso
 - O que é Inteligência Emocional 
