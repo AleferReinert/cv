@@ -58,7 +58,6 @@ Atuar como desenvolvedor front-end.
 - Inglês - Básico - Leitura
 
 ## Habilidades
-testee
 
 | Área                        | Tecnologias |
 |-----------------------------|-------------|
@@ -69,11 +68,7 @@ testee
 | Testes                      | Testing Library, Storybook |
 | Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobile first) |
 
-
-testeee
-oiii
-## testando
-### testando 
+---
 ## Descrições dos cursos
 
 <a name="inteligencia-emocional-na-pratica"></a>
