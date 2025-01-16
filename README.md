@@ -2,11 +2,26 @@
 
 | Curso                              | Instituição         | Mês/Ano      | Carga Horária | Descrição |
 |------------------------------------|---------------------|--------------|---------------|-------------------|
-| Inteligência Emocional na Prática  | Fundação Estudar    | Outubro/2024 | 6h            | [Visualizar](#my-custom-anchor-point) |
+| Inteligência Emocional na Prática  | Fundação Estudar    | Outubro/2024 | 6h            | [Visualizar](#inteligencia-emocional-na-pratica) |
 | NLW Journey - ReactJS              | Rocketseat          | Julho/2024   | 4h            | [Visualizar](#nlw-journey-reactjs) |
 | Inteligência Artificial            | Conquer             | Junho/2024   | 10h           | [Visualizar](#inteligencia-artificial) |
-
-
+| Trilha Digital - Coders 24         | Ada Tech            | Junho/2024   | 19h           | [Visualizar](#trilha-digital-coders-24) |
+| Semana do Herói Edição 04          | Hero Code           | Junho/2024   | 5h            | [Visualizar](#semana-do-heroi-edicao-04) |
+| Practical GitHub Copilot           | LinkedIn Learning   | Maio/2024    | 1h            | [Visualizar](#practical-github-copilot) |
+| Imersão Inteligência Artificial    | Alura               | Maio/2024    | 6h            | [Visualizar](#imersao-inteligencia-artificial) |
+| Inglês 1                           | Aprenda Mais        | Abril/2024   | 30h           | [Visualizar](#ingles-1) |
+| Trilha fluenciA                    | ENAP                | Abril/2024   | 10h           | [Visualizar](#trilha-fluencia) |
+| NLW Unite - NodeJS                 | Rocketseat          | Abril/2024   | 5h            | [Visualizar](#nlw-unite-nodejs) |
+| NLW Unite - ReactJS                | Rocketseat          | Abril/2024   | 5h            | [Visualizar](#nlw-unite-reactjs) |
+| Curso Introdução ao React          | Refatorando         | Março/2024   | 3h            | [Visualizar](#curso-introducao-ao-react) |
+| Curso Introdução ao TypeScript     | Refatorando         | Março/2024   | 1h            | [Visualizar](#curso-introducao-ao-typescript) |
+| Curso Introdução ao Git e GitHub   | Refatorando         | Março/2024   | 1:30h         | [Visualizar](#curso-introducao-ao-git-e-github) |
+| Fundamentos de Banco de Dados      | Descomplica         | Janeiro/2024 | 30h           | [Visualizar](#fundamentos-de-banco-de-dados) |
+| Organização de Produtividade Remota| Descomplica         | Janeiro/2024 | 30h           | [Visualizar](#organizacao-de-produtividade-remota) |
+| PHP - MYSQL - INICIANTE            | Unova Cursos        | Novembro/2023| 50h           | [Visualizar](#php-mysql-iniciante) |
+| Javascript Para Iniciantes         | Unova Cursos        | Outubro/2022 | 50h           | [Visualizar](#javascript-para-iniciantes) |
+| CC50: Introdução à Ciência da Computação | Fundação Estudar | Setembro/2022 | 70h          | [Visualizar](#cc50-introducao-a-ciencia-da-computacao) |
+| Formação Design Gráfico            | ProWay Informática  | Fevereiro/2012 | 80h          | [Visualizar](#formacao-design-grafico) |
 
 
 
@@ -465,6 +480,29 @@ Atuar como desenvolvedor front-end.
 | Testes             | Testing Library, Storybook                           |
 | Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobile first)  |
 
-<a name="my-custom-anchor-point"></a>
-## Inteligência Emocional na Prática
-Descrição sobre o curso de Formação Complementar.
+## Descrições dos cursos
+### Inteligência Emocional na Prática
+#### Introdução ao curso
+- O que é Inteligência Emocional 
+- Seus componentes e competências 
+- Teste de Inteligência Emocional
+
+#### Autoconsciência 
+- O que é autoconsciência 
+- Diferenças entre emoção e sentimento 
+- Sequestro e esgotamento emocional
+
+#### Autogestão 
+- O que é a autogestão 
+- Foco e autocontrole 
+- Técnicas de equilíbrio emocional
+
+#### Consciência Social 
+- O que é consciência social 
+- Seus componentes e competências 
+- Teste de Inteligência Emocional
+
+#### Gestão de Relacionamentos
+- Aprenda sobre comunicação 
+- Gestão de conflitos 
+- Influência e inspiração
