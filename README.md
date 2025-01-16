@@ -58,13 +58,13 @@ Atuar como desenvolvedor front-end.
 - Inglês - Básico - Leitura
 
 ## Habilidades
-| Área | Tecnologias|
-|-|-|
-| Front-end | Bootstrap, Styled Components, Tailwind, CSS, Sass, Less, HTML, JavaScript, TypeScript, React, Next.js, JQuery, Git, GitHub Grunt, Gulp |
-| Ferramentas | Figma, Photoshopvb |
-| Inteligência Artificial | Google AI Studio, OpenAI, GitHub Copilot |
-| Back-end/CMS | Node.js, MongoDB, Python, PHP, GraphQL, Apollo, Strapi|
-| Testes | Testing Library, Storybook |
+| Área                        | Tecnologias |
+|-----------------------------|-------------|
+| Front-end                   | Bootstrap, Styled Components, Tailwind, CSS, Sass, Less, HTML, JavaScript, TypeScript, React, Next.js, JQuery, Git, GitHub Grunt, Gulp |
+| Ferramentas                 | Figma, Photoshopvb |
+| Inteligência Artificial     | Google AI Studio, OpenAI, GitHub Copilot |
+| Back-end/CMS                | Node.js, MongoDB, Python, PHP, GraphQL, Apollo, Strapi |
+| Testes                      | Testing Library, Storybook |
 | Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobile first) |
 
 ## Descrições dos cursos
