@@ -66,7 +66,7 @@ Formação Design Gráfico                  | ProWay Informática  | Fevereiro/2
 Área                        | Tecnologias 
 ----------------------------|------------
 Front-end                   | Bootstrap, Styled Components, Tailwind, CSS, Sass, Less, HTML, JavaScript, TypeScript, React, Next.js, JQuery, Git, GitHub Grunt, Gulp 
-Ferramentas                 | Figma, Photoshopvb 
+Ferramentas                 | Figma, Photoshop 
 Inteligência Artificial     | Google AI Studio, OpenAI, GitHub Copilot 
 Back-end/CMS                | Node.js, MongoDB, Python, PHP, GraphQL, Apollo, Strapi 
 Testes                      | Testing Library, Storybook 
@@ -273,14 +273,14 @@ Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobil
 
 <a name="php-mysql-iniciante"></a>
 - ### PHP - MYSQL - INICIANTE
-  <code>
-  - Preparação do ambiente: Eclipse, Xampp
-  - Criação de projeto PHP, teste de código
-  - Controle de fluxo e estruturas em PHP
-  - Conexão PHP-MySQL via linha de comando
-  - Integração: PHP, PHPMyAdmin, MySQL, HTML
-  - Execução de comandos MySQL no navegador
-  </code>
+  ```
+  Preparação do ambiente: Eclipse, Xampp
+  Criação de projeto PHP, teste de código
+  Controle de fluxo e estruturas em PHP
+  Conexão PHP-MySQL via linha de comando
+  Integração: PHP, PHPMyAdmin, MySQL, HTML
+  Execução de comandos MySQL no navegador
+  ```
 
 <a name="javascript-para-iniciantes"></a>
 - ### Javascript Para Iniciantes
