@@ -142,7 +142,7 @@ Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobil
   Como melhorar a autogestão usando a IA
   Ferramentas para aumentar repertório e acelerar o aprendizado
   Plano para aplicação de IA na sua rotina
-  <i>Bônus: Como integrar as inteligências humana e artificial</i>
+  <small><i>Bônus: Como integrar as inteligências humana e artificial</i></small>
     
   <b>3 estratégias para ser um profissional de destaque na era da IA</b>
   Masterclass online
@@ -247,7 +247,8 @@ Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobil
 
 <a name="organizacao-de-produtividade-remota"></a>
 - ### Organização de Produtividade Remota
-  <pre>Menos é Melhor
+  <pre>
+  - Menos é Melhor
   - Ferramentas de Produtividade Remota
   - Técnicas de Organização de Tempo
   - Neutralize seu maior Inimigo
