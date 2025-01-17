@@ -103,13 +103,13 @@ Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobil
 <a name="nlw-journey-reactjs"></a>
 - ### NLW Journey - Reactjs
   <pre>
-  - Desenvolvimento de uma aplicação front-end em ReactJS
-  - Aplicação dos conceitos de Propriedades, Estados e Componentes
-  - Tipagem com Typescript
-  - Tooling com Vite
-  - Interface responsiva com TailwindCSS
-  - Consumo de API Node.js
-  - Picker de calendário
+- Desenvolvimento de uma aplicação front-end em ReactJS
+- Aplicação dos conceitos de Propriedades, Estados e Componentes
+- Tipagem com Typescript
+- Tooling com Vite
+- Interface responsiva com TailwindCSS
+- Consumo de API Node.js
+- Picker de calendário
   </pre>
 
 <a name="inteligencia-artificial"></a>
