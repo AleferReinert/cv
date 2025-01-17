@@ -17,10 +17,10 @@ Atuar como desenvolvedor front-end.
 ## Experiência Profissional
 - Uoou Solutions - Desenvolvedor Front-End - 07/2019 a 01/2022
   <pre>- Desenvolvimento e manutenção de e-commerces a partir de layouts pré-definidos em Photoshop.
-  - Capacidade de criar páginas baseadas em layouts existentes de outras páginas.
-  - Utilização de CSS, JavaScript, JQuery, Bootstrap e Photoshop.
-  - Trabalho freelance e remoto.
-  - Últimos projetos trabalhados: [Marina e Gabriella](https://www.marinaegabriella.com.br), [Petit Rose](https://www.petitrosestore.com.br), [SCMidia](https://www.scmidia.com.br).
+    - Capacidade de criar páginas baseadas em layouts existentes de outras páginas.
+    - Utilização de CSS, JavaScript, JQuery, Bootstrap e Photoshop.
+    - Trabalho freelance e remoto.
+    - Últimos projetos trabalhados: [Marina e Gabriella](https://www.marinaegabriella.com.br), [Petit Rose](https://www.petitrosestore.com.br), [SCMidia](https://www.scmidia.com.br).
 </pre>
 
 - Quality Press - Desenvolvedor Front-End - 05/2012 a 12/2015
