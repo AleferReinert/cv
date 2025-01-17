@@ -77,8 +77,7 @@ Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobil
   
 <a name="inteligencia-emocional-na-pratica"></a>
 - ### Inteligência Emocional na Prática
-  <pre>
-  <b>Introdução ao curso</b>
+  <pre><code><b>Introdução ao curso</b>
   O que é Inteligência Emocional 
   Seus componentes e competências 
   Teste de Inteligência Emocional
@@ -102,7 +101,7 @@ Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobil
   Aprenda sobre comunicação 
   Gestão de conflitos 
   Influência e inspiração
-  </pre>
+  </code></pre>
 
 <a name="nlw-journey-reactjs"></a>
 - ### NLW Journey - Reactjs
