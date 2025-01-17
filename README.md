@@ -117,8 +117,7 @@ Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobil
 
 <a name="inteligencia-artificial"></a>
 - ### Inteligência Artificial
-  <pre><code>
-  <b>Estratégias para dominar IA</b>
+  <pre><code><b>Estratégias para dominar IA</b>
   Como não ser substituído(a) pela IA
   A inteligência por trás da IA
   Faça as perguntas certas para ter ótimas respostas da IA
