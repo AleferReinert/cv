@@ -16,20 +16,20 @@ Atuar como desenvolvedor front-end.
 
 ## Experiência Profissional
 - Uoou Solutions - Desenvolvedor Front-End - 07/2019 a 01/2022
-  <pre>
+<pre>
 - Desenvolvimento e manutenção de e-commerces a partir de layouts pré-definidos em Photoshop.
 - Capacidade de criar páginas baseadas em layouts existentes de outras páginas.
 - Utilização de CSS, JavaScript, JQuery, Bootstrap e Photoshop.
 - Trabalho freelance e remoto.
 - Últimos projetos trabalhados: [Marina e Gabriella](https://www.marinaegabriella.com.br), [Petit Rose](https://www.petitrosestore.com.br), [SCMidia](https://www.scmidia.com.br).
-  </pre>
+</pre>
 
 - Quality Press - Desenvolvedor Front-End - 05/2012 a 12/2015
-  <pre>
+<pre>
 - Desenvolvimento de sites, e-commerces, WordPress e e-mail marketing a partir de layouts pré-definidos em Photoshop.
 - Implementado Less e Grunt na equipe, melhorando desempenho dos produtos através de  minificação e concatenação de imagens, CSS e JavaScript, além da criação automática de sprites de imagens, facilitando a manutenção e aumentando a qualidade dos códigos.
 - Utilização de Less, JQuery, Grunt, Bootstrap, Photoshop e contato com PHP.
-  </pre>
+</pre>
 
 ## Formação Acadêmica
 - Ensino Médio - E. E. B. Professor Honório Miranda - 2008 a 2010
