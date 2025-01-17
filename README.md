@@ -70,29 +70,35 @@ Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobil
 
 ---
 ## Descrições dos cursos
-
+  
 <a name="inteligencia-emocional-na-pratica"></a>
 ### Inteligência Emocional na Prática
-#### Introdução ao curso
-- O que é Inteligência Emocional 
-- Seus componentes e competências 
-- Teste de Inteligência Emocional
-#### Autoconsciência 
-- O que é autoconsciência 
-- Diferenças entre emoção e sentimento 
-- Sequestro e esgotamento emocional
-#### Autogestão 
-- O que é a autogestão 
-- Foco e autocontrole 
-- Técnicas de equilíbrio emocional
-#### Consciência Social 
-- O que é consciência social 
-- Seus componentes e competências 
-- Teste de Inteligência Emocional
-#### Gestão de Relacionamentos
-- Aprenda sobre comunicação 
-- Gestão de conflitos 
-- Influência e inspiração
+<pre>
+<b>Introdução ao curso</b>
+O que é Inteligência Emocional 
+Seus componentes e competências 
+Teste de Inteligência Emocional
+  
+<b>Autoconsciência</b>
+O que é autoconsciência 
+Diferenças entre emoção e sentimento 
+Sequestro e esgotamento emocional
+  
+<b>Autogestão</b>
+O que é a autogestão 
+Foco e autocontrole 
+Técnicas de equilíbrio emocional
+  
+<b>Consciência Social </b>
+O que é consciência social 
+Seus componentes e competências 
+Teste de Inteligência Emocional
+  
+<b>Gestão de Relacionamentos</b>
+Aprenda sobre comunicação 
+Gestão de conflitos 
+Influência e inspiração
+</pre>
 
 <a name="nlw-journey-reactjs"></a>
 ### NLW Journey - Reactjs
