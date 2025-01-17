@@ -103,19 +103,19 @@ Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobil
 <a name="nlw-journey-reactjs"></a>
 - ### NLW Journey - Reactjs
   <pre>
-  Desenvolvimento de uma aplicação front-end em ReactJS
-  Aplicação dos conceitos de Propriedades, Estados e Componentes
-  Tipagem com Typescript
-  Tooling com Vite
-  Interface responsiva com TailwindCSS
-  Consumo de API Node.js
-  Picker de calendário
+  - Desenvolvimento de uma aplicação front-end em ReactJS
+  - Aplicação dos conceitos de Propriedades, Estados e Componentes
+  - Tipagem com Typescript
+  - Tooling com Vite
+  - Interface responsiva com TailwindCSS
+  - Consumo de API Node.js
+  - Picker de calendário
   </pre>
 
 <a name="inteligencia-artificial"></a>
 - ### Inteligência Artificial
   <pre>
-  <b>ESTRATÉGIAS PARA DOMINAR IA</b>
+  <b>Estratégias para dominar IA</b>
   Como não ser substituído(a) pela IA
   A inteligência por trás da IA
   Faça as perguntas certas para ter ótimas respostas da IA
@@ -124,39 +124,39 @@ Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobil
   <i>Bônus: Desvendando o ChatGPT4 Omni</i>
   <i>Bônus: Transforme o medo da IA em vontade de aprender</i>
     
-  <b>ELEVE SUA PRODUTIVIDADE COM IA</b>
+  <b>Eleve sua produtividade com IA</b>
   Construção de textos assertivos e de maneira mais ágil
   Ferramentas para tornar suas reuniões mais produtivas
   Automatização de tarefas repetitivas
   <i>Bônus: IA em ação: cases profissionais de sucesso</i>
   <i>Bônus: Como aproveitar no trabalho as facilidades que a IA proporciona</i>
     
-  <b>IA COMO ALIADA AO PROCESSO CRIATIVO</b>
+  <b>IA como aliada ao processo criativo</b>
   Geração, priorização e seleção de ideias usando IA
   Funcionalidades da IA para análise de dados e insights criativos
   Criação de imagens e videos com apoio da IA
   Como montar apresentações usando IA
     
-  <b>VEJA SUA CARREIRA DECOLAR COM IA</b>
+  <b>Veja sua carreira decolar com IA</b>
   Mapeamento de competências e padrões de trabalho
   Como melhorar a autogestão usando a IA
   Ferramentas para aumentar repertório e acelerar o aprendizado
   Plano para aplicação de IA na sua rotina
   <i>Bônus: Como integrar as inteligências humana e artificial</i>
     
-  <b>3 ESTRATÉGIAS PARA SER UM(A) PROFISSIONAL DE DESTAQUE NA ERA DA IA</b>
+  <b>3 estratégias para ser um profissional de destaque na era da IA</b>
   Masterclass online
   </pre>
 
 <a name="trilha-digital-coders-24"></a>
 - ### Trilha Digital - Coders 24 - Front End
   <pre>
-  Git e versionamento
-  HTML
-  CSS
-  Javascript
-  React básico
-  Introdução ao Angular
+  - Git e versionamento
+  - HTML
+  - CSS
+  - Javascript
+  - React básico
+  - Introdução ao Angular
   </pre>
 
 <a name="semana-do-heroi-edicao-04"></a>
@@ -165,16 +165,16 @@ Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobil
 
 <a name="practical-github-copilot"></a>
 - ### Practical GitHub Copilot
-  <pre>Github, Github Copilot.</pre>
+  <pre>Github e Github Copilot.</pre>
 
 <a name="imersao-inteligencia-artificial"></a>
 - ### Imersão Inteligência Artificial
   <pre>
-  Usar o Gemini, com exemplos práticos de modelos de IA do Google
-  Criar prompts profissionais para obter respostas assertivas da IA
-  Utilizar o Google IA Studio para prototipar prompts com modelos generativos do Google
-  Conectar o Gemini API ao Python com o Google Colab
-  Criar um chatbot e um sistema de busca de documentos com o Gemini API
+  - Usar o Gemini, com exemplos práticos de modelos de IA do Google
+  - Criar prompts profissionais para obter respostas assertivas da IA
+  - Utilizar o Google IA Studio para prototipar prompts com modelos generativos do Google
+  - Conectar o Gemini API ao Python com o Google Colab
+  - Criar um chatbot e um sistema de busca de documentos com o Gemini API
   </pre>
 
 <a name="ingles-1"></a>
@@ -184,84 +184,88 @@ Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobil
 <a name="trilha-fluencia"></a>
 - ### Trilha fluêncIA
   <pre>
-  A História da Inteligência Artificial
-  Inteligência Artificial Generativa
-  A Evolução das buscas Online
-  Como ser mais Produtivo usando o Bing Chat
-  Ética em Inteligência Artificial
+  - A História da Inteligência Artificial
+  - Inteligência Artificial Generativa
+  - A Evolução das buscas Online
+  - Como ser mais Produtivo usando o Bing Chat
+  - Ética em Inteligência Artificial
   </pre>
 
 <a name="nlw-unite-nodejs"></a>
 - ### NLW Unite - Nodejs
-- Desenvolvimento de aplicação back-end em Node.js
-- Aplicação dos conceitos de API REST
-- Utilização de TypeScript
-- Uso do framework Fastify
-- Integração do Prisma ORM
-- Utilização do SQLite
-- Validação de dados com Zod
+  <pre>
+  - Desenvolvimento de aplicação back-end em Node.js
+  - Aplicação dos conceitos de API REST
+  - Utilização de TypeScript
+  - Uso do framework Fastify
+  - Integração do Prisma ORM
+  - Utilização do SQLite
+  - Validação de dados com Zod
+  </pre>
 
 <a name="nlw-unite-reactjs"></a>
-### NLW Unite - Reactjs
-- Desenvolvimento de uma aplicação front-end em ReactJS
-- Aplicação dos conceitos de Propriedades, Estados e Componentes
-- Tipagem com Typescript
-- Tooling com Vite
-- Interface responsiva com TailwindCSS
-- Consumo de API Node.js
-- Uso de URL states
+- ### NLW Unite - Reactjs
+  <pre>
+  - Desenvolvimento de uma aplicação front-end em ReactJS
+  - Aplicação dos conceitos de Propriedades, Estados e Componentes
+  - Tipagem com Typescript
+  - Tooling com Vite
+  - Interface responsiva com TailwindCSS
+  - Consumo de API Node.js
+  - Uso de URL states
+  </pre>
 
 <a name="curso-introducao-ao-react"></a>
-### Curso Introdução ao React
-Descobrir os fundamentos do React e sua abordagem baseada em componentes para o desenvolvimento de interfaces.
+- ### Curso Introdução ao React
+  <pre>Descobrir os fundamentos do React e sua abordagem baseada em componentes para o desenvolvimento de interfaces.</pre>
 
 <a name="curso-introducao-ao-typescript"></a>
-### Curso Introdução ao TypeScript
-Dominar os conceitos fundamentais do TypeScript, incluindo tipagem estática, interfaces e decoradores.
+- ### Curso Introdução ao TypeScript
+  <pre>Dominar os conceitos fundamentais do TypeScript, incluindo tipagem estática, interfaces e decoradores.</pre>
 
 <a name="curso-introducao-ao-git-e-github"></a>
 - ### Curso Introdução ao Git e Github
   <pre>
-  Explorar os conceitos fundamentais do controle de versão e entender por que o Git se tornou tão popular.
-  Aprender a configurar repositórios, criar branches e mesclar código de forma organizada.
-  Descobrir como usar o GitHub para hospedar seus projetos, colaborar com outros desenvolvedores e gerenciar problemas.
+  - Explorar os conceitos fundamentais do controle de versão e entender por que o Git se tornou tão popular
+  - Aprender a configurar repositórios, criar branches e mesclar código de forma organizada
+  - Descobrir como usar o GitHub para hospedar seus projetos, colaborar com outros desenvolvedores e gerenciar problemas
   </pre>
 
 <a name="fundamentos-de-banco-de-dados"></a>
 - ### Fundamentos de Banco de Dados
   <pre>
-  Introdução aos Sistemas de Bancos de Dados
-  Banco de Dados x SGBD´s
-  Prática sobre MER Conceitual
-  Tipos de Relacionamentos e Estabelecimento de Chaves
-  Desenvolvimento do MER Lógico e Físico
-  Linguagem SQL - Comandos DDL, DML e DQL
-  Consulta com Funções de uma única Linha
-  Joins
-  Funções de Grupo e Subconsultas
+  - Introdução aos Sistemas de Bancos de Dados
+  - Banco de Dados x SGBD´s
+  - Prática sobre MER Conceitual
+  - Tipos de Relacionamentos e Estabelecimento de Chaves
+  - Desenvolvimento do MER Lógico e Físico
+  - Linguagem SQL - Comandos DDL, DML e DQL
+  - Consulta com Funções de uma única Linha
+  - Joins
+  - Funções de Grupo e Subconsultas
   </pre>
 
 <a name="organizacao-de-produtividade-remota"></a>
 - ### Organização de Produtividade Remota
   <pre>Menos é Melhor
-  Ferramentas de Produtividade Remota
-  Técnicas de Organização de Tempo
-  Neutralize seu maior Inimigo
-  Saúde Física e Mental
-  Rotinas Inteligentes
-  Técnicas para Potencializar Resultados
-  Gestão de Tempo 
+  - Ferramentas de Produtividade Remota
+  - Técnicas de Organização de Tempo
+  - Neutralize seu maior Inimigo
+  - Saúde Física e Mental
+  - Rotinas Inteligentes
+  - Técnicas para Potencializar Resultados
+  - Gestão de Tempo 
   </pre>
 
 <a name="php-mysql-iniciante"></a>
 - ### PHP - MYSQL - INICIANTE
   <pre>
-  Preparação do ambiente: Eclipse, Xampp
-  Criação de projeto PHP, teste de código
-  Controle de fluxo e estruturas em PHP
-  Conexão PHP-MySQL via linha de comando
-  Integração: PHP, PHPMyAdmin, MySQL, HTML
-  Execução de comandos MySQL no navegador
+  - Preparação do ambiente: Eclipse, Xampp
+  - Criação de projeto PHP, teste de código
+  - Controle de fluxo e estruturas em PHP
+  - Conexão PHP-MySQL via linha de comando
+  - Integração: PHP, PHPMyAdmin, MySQL, HTML
+  - Execução de comandos MySQL no navegador
   </pre>
 
 <a name="javascript-para-iniciantes"></a>
@@ -271,17 +275,17 @@ Dominar os conceitos fundamentais do TypeScript, incluindo tipagem estática, in
 <a name="cc50-introducao-a-ciencia-da-computacao"></a>
 - ### CC50: Introdução à Ciência da Computação
   <pre>
-  Compreendendo conceitos básicos de programação com Scratch
-  Linguagem C
-  Arrays
-  Algoritmos
-  Memória
-  Estruturas de Dados
-  Python
-  SQL
-  HTML, CSS e JavaScript
-  Flask
-  Ética
+  - Compreendendo conceitos básicos de programação com Scratch
+  - Linguagem C
+  - Arrays
+  - Algoritmos
+  - Memória
+  - Estruturas de Dados
+  - Python
+  - SQL
+  - HTML, CSS e JavaScript
+  - Flask
+  - Ética
   </pre>
 
 <a name="formacao-design-grafico"></a>
