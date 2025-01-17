@@ -77,7 +77,7 @@ Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobil
   
 <a name="inteligencia-emocional-na-pratica"></a>
 - ### Inteligência Emocional na Prática
-  <pre><code><b>Introdução ao curso</b>
+  ```<code><b>Introdução ao curso</b>
   O que é Inteligência Emocional 
   Seus componentes e competências 
   Teste de Inteligência Emocional
@@ -101,11 +101,11 @@ Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobil
   Aprenda sobre comunicação 
   Gestão de conflitos 
   Influência e inspiração
-  </code></pre>
+  </code>```
 
 <a name="nlw-journey-reactjs"></a>
 - ### NLW Journey - Reactjs
-  <pre>
+  ```
   Desenvolvimento de uma aplicação front-end em ReactJS
   Aplicação dos conceitos de Propriedades, Estados e Componentes
   Tipagem com Typescript
@@ -113,11 +113,11 @@ Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobil
   Interface responsiva com TailwindCSS
   Consumo de API Node.js
   Picker de calendário
-  </pre>
+  ```
 
 <a name="inteligencia-artificial"></a>
 - ### Inteligência Artificial
-  <pre><code>
+  ```<code>
   <b>Estratégias para dominar IA</b>
   Como não ser substituído(a) pela IA
   A inteligência por trás da IA
@@ -149,26 +149,30 @@ Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobil
     
   <b>3 estratégias para ser um profissional de destaque na era da IA</b>
   Masterclass online
-  </code></pre>
+  </code>```
 
 <a name="trilha-digital-coders-24"></a>
 - ### Trilha Digital - Coders 24 - Front End
-  <pre>
+  ```
   Git e versionamento
   HTML
   CSS
   Javascript
   React básico
   Introdução ao Angular
-  </pre>
+  ```
 
 <a name="semana-do-heroi-edicao-04"></a>
 - ### Semana do Herói Edição 04
-  ```Desenvolvimento de um sistema de pesquisa semântica utilizando React.js, Node.js, MongoDB, Typescript e OpenAI.```
+  ```
+  Desenvolvimento de um sistema de pesquisa semântica utilizando React.js, Node.js, MongoDB, Typescript e OpenAI.
+  ```
 
 <a name="practical-github-copilot"></a>
 - ### Practical GitHub Copilot
-  ```Github e Github Copilot.```
+  ```
+  Github e Github Copilot.
+  ```
 
 <a name="imersao-inteligencia-artificial"></a>
 - ### Imersão Inteligência Artificial
@@ -182,21 +186,23 @@ Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobil
 
 <a name="ingles-1"></a>
 - ### Inglês 1
-  <pre>Identificação e caracterização pessoal, localização no tempo e no espaço.</pre>
+  ```
+  Identificação e caracterização pessoal, localização no tempo e no espaço.
+  ```
 
 <a name="trilha-fluencia"></a>
 - ### Trilha fluêncIA
-  <pre>
+  ```
   A História da Inteligência Artificial
   Inteligência Artificial Generativa
   A Evolução das buscas Online
   Como ser mais Produtivo usando o Bing Chat
   Ética em Inteligência Artificial
-  </pre>
+  ```
 
 <a name="nlw-unite-nodejs"></a>
 - ### NLW Unite - Nodejs
-  <pre>
+  ```
   Desenvolvimento de aplicação back-end em Node.js
   Aplicação dos conceitos de API REST
   Utilização de TypeScript
@@ -204,11 +210,11 @@ Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobil
   Integração do Prisma ORM
   Utilização do SQLite
   Validação de dados com Zod
-  </pre>
+  ```
 
 <a name="nlw-unite-reactjs"></a>
 - ### NLW Unite - Reactjs
-  <pre>
+  ```
   Desenvolvimento de uma aplicação front-end em ReactJS
   Aplicação dos conceitos de Propriedades, Estados e Componentes
   Tipagem com Typescript
@@ -216,23 +222,27 @@ Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobil
   Interface responsiva com TailwindCSS
   Consumo de API Node.js
   Uso de URL states
-  </pre>
+  ```
 
 <a name="curso-introducao-ao-react"></a>
 - ### Curso Introdução ao React
-  <pre>Descobrir os fundamentos do React e sua abordagem baseada em componentes para o desenvolvimento de interfaces.</pre>
+  ```
+  Descobrir os fundamentos do React e sua abordagem baseada em componentes para o desenvolvimento de interfaces.
+  ```
 
 <a name="curso-introducao-ao-typescript"></a>
 - ### Curso Introdução ao TypeScript
-  <pre>Dominar os conceitos fundamentais do TypeScript, incluindo tipagem estática, interfaces e decoradores.</pre>
+  ```
+  Dominar os conceitos fundamentais do TypeScript, incluindo tipagem estática, interfaces e decoradores.
+  ```
 
 <a name="curso-introducao-ao-git-e-github"></a>
 - ### Curso Introdução ao Git e Github
-  <pre>
+  ```
   Explorar os conceitos fundamentais do controle de versão e entender por que o Git se tornou tão popular.
   Aprender a configurar repositórios, criar branches e mesclar código de forma organizada.
   Descobrir como usar o GitHub para hospedar seus projetos, colaborar com outros desenvolvedores e gerenciar problemas.
-  </pre>
+  ```
 
 <a name="fundamentos-de-banco-de-dados"></a>
 - ### Fundamentos de Banco de Dados
@@ -263,14 +273,14 @@ Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobil
 
 <a name="php-mysql-iniciante"></a>
 - ### PHP - MYSQL - INICIANTE
-  ```
+  <code>
   - Preparação do ambiente: Eclipse, Xampp
   - Criação de projeto PHP, teste de código
   - Controle de fluxo e estruturas em PHP
   - Conexão PHP-MySQL via linha de comando
   - Integração: PHP, PHPMyAdmin, MySQL, HTML
   - Execução de comandos MySQL no navegador
-  ```
+  </code>
 
 <a name="javascript-para-iniciantes"></a>
 - ### Javascript Para Iniciantes
