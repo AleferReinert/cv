@@ -72,107 +72,127 @@ Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobil
 ## Descrições dos cursos
   
 <a name="inteligencia-emocional-na-pratica"></a>
-### Inteligência Emocional na Prática
-<pre>
-<b>Introdução ao curso</b>
-O que é Inteligência Emocional 
-Seus componentes e competências 
-Teste de Inteligência Emocional
-  
-<b>Autoconsciência</b>
-O que é autoconsciência 
-Diferenças entre emoção e sentimento 
-Sequestro e esgotamento emocional
-  
-<b>Autogestão</b>
-O que é a autogestão 
-Foco e autocontrole 
-Técnicas de equilíbrio emocional
-  
-<b>Consciência Social </b>
-O que é consciência social 
-Seus componentes e competências 
-Teste de Inteligência Emocional
-  
-<b>Gestão de Relacionamentos</b>
-Aprenda sobre comunicação 
-Gestão de conflitos 
-Influência e inspiração
-</pre>
+- ### Inteligência Emocional na Prática
+  <pre>
+  <b>Introdução ao curso</b>
+  O que é Inteligência Emocional 
+  Seus componentes e competências 
+  Teste de Inteligência Emocional
+    
+  <b>Autoconsciência</b>
+  O que é autoconsciência 
+  Diferenças entre emoção e sentimento 
+  Sequestro e esgotamento emocional
+    
+  <b>Autogestão</b>
+  O que é a autogestão 
+  Foco e autocontrole 
+  Técnicas de equilíbrio emocional
+    
+  <b>Consciência Social </b>
+  O que é consciência social 
+  Seus componentes e competências 
+  Teste de Inteligência Emocional
+    
+  <b>Gestão de Relacionamentos</b>
+  Aprenda sobre comunicação 
+  Gestão de conflitos 
+  Influência e inspiração
+  </pre>
 
 <a name="nlw-journey-reactjs"></a>
-### NLW Journey - Reactjs
-Desenvolvimento de uma aplicação front-end em ReactJS, aplicação dos conceitos de Propriedades, Estados e Componentes,tipagem com Typescript,tooling com Vite, interface responsiva com TailwindCSS, consumo de API Node.js, picker de calendário.
+- ### NLW Journey - Reactjs
+  <pre>
+  Desenvolvimento de uma aplicação front-end em ReactJS
+  Aplicação dos conceitos de Propriedades, Estados e Componentes
+  Tipagem com Typescript
+  Tooling com Vite
+  Interface responsiva com TailwindCSS
+  Consumo de API Node.js
+  Picker de calendário
+  </pre>
 
 <a name="inteligencia-artificial"></a>
-### Inteligência Artificial
-##### ESTRATÉGIAS PARA DOMINAR IA
-- Como não ser substituído(a) pela IA
-- A inteligência por trás da IA
-- Faça as perguntas certas para ter ótimas respostas da IA
-- Case ZTX-Labs: como uma empresa foi criada do zero com o uso do ChatGPT
-- Facilite seu dia a dia com ChatGPT, Gemini e Copilot
-- Bônus: Desvendando o ChatGPT4 Omni
-- Bônus: Transforme o medo da IA em vontade de aprender
-##### ELEVE SUA PRODUTIVIDADE COM IA
-- Construção de textos assertivos e de maneira mais ágil
-- Ferramentas para tornar suas reuniões mais produtivas
-- Automatização de tarefas repetitivas
-- Bônus: IA em ação: cases profissionais de sucesso
-- Bônus: Como aproveitar no trabalho as facilidades que a IA proporciona
-##### IA COMO ALIADA AO PROCESSO CRIATIVO
-- Geração, priorização e seleção de ideias usando IA
-- Funcionalidades da IA para análise de dados e insights criativos
-- Criação de imagens e videos com apoio da IA
-- Como montar apresentações usando IA
-##### VEJA SUA CARREIRA DECOLAR COM IA
-- Mapeamento de competências e padrões de trabalho
-- Como melhorar a autogestão usando a IA
-- Ferramentas para aumentar repertório e acelerar o aprendizado
-- Plano para aplicação de IA na sua rotina
-- Bônus: Como integrar as inteligências humana e artificial
-##### 3 ESTRATÉGIAS PARA SER UM(A) PROFISSIONAL DE DESTAQUE NA ERA DA IA
-- Masterclass online.
+- ### Inteligência Artificial
+  <pre>
+  <b>ESTRATÉGIAS PARA DOMINAR IA</b>
+  Como não ser substituído(a) pela IA
+  A inteligência por trás da IA
+  Faça as perguntas certas para ter ótimas respostas da IA
+  Case ZTX-Labs: como uma empresa foi criada do zero com o uso do ChatGPT
+  Facilite seu dia a dia com ChatGPT, Gemini e Copilot
+  <i>Bônus: Desvendando o ChatGPT4 Omni</i>
+  <i>Bônus: Transforme o medo da IA em vontade de aprender</i>
+    
+  <b>ELEVE SUA PRODUTIVIDADE COM IA</b>
+  Construção de textos assertivos e de maneira mais ágil
+  Ferramentas para tornar suas reuniões mais produtivas
+  Automatização de tarefas repetitivas
+  <i>Bônus: IA em ação: cases profissionais de sucesso</i>
+  <i>Bônus: Como aproveitar no trabalho as facilidades que a IA proporciona</i>
+    
+  <b>IA COMO ALIADA AO PROCESSO CRIATIVO</b>
+  Geração, priorização e seleção de ideias usando IA
+  Funcionalidades da IA para análise de dados e insights criativos
+  Criação de imagens e videos com apoio da IA
+  Como montar apresentações usando IA
+    
+  <b>VEJA SUA CARREIRA DECOLAR COM IA</b>
+  Mapeamento de competências e padrões de trabalho
+  Como melhorar a autogestão usando a IA
+  Ferramentas para aumentar repertório e acelerar o aprendizado
+  Plano para aplicação de IA na sua rotina
+  <i>Bônus: Como integrar as inteligências humana e artificial</i>
+    
+  <b>3 ESTRATÉGIAS PARA SER UM(A) PROFISSIONAL DE DESTAQUE NA ERA DA IA</b>
+  Masterclass online
+  </pre>
 
 <a name="trilha-digital-coders-24"></a>
-### Trilha Digital - Coders 24 - Front End
-- Git e versionamento
-- HTML
-- CSS
-- Javascript
-- React básico
-- Introdução ao Angular
+- ### Trilha Digital - Coders 24 - Front End
+  <pre>
+  Git e versionamento
+  HTML
+  CSS
+  Javascript
+  React básico
+  Introdução ao Angular
+  </pre>
 
 <a name="semana-do-heroi-edicao-04"></a>
-### Semana do Herói Edição 04
-Desenvolvimento de um sistema de pesquisa semântica utilizando React.js, Node.js, MongoDB, Typescript e OpenAI.
+- ### Semana do Herói Edição 04
+  <pre>Desenvolvimento de um sistema de pesquisa semântica utilizando React.js, Node.js, MongoDB, Typescript e OpenAI.</pre>
 
 <a name="practical-github-copilot"></a>
-### Practical GitHub Copilot
-Github, Github Copilot.
+- ### Practical GitHub Copilot
+  <pre>Github, Github Copilot.</pre>
 
 <a name="imersao-inteligencia-artificial"></a>
-### Imersão Inteligência Artificial
-- Usar o Gemini, com exemplos práticos de modelos de IA do Google
-- Criar prompts profissionais para obter respostas assertivas da IA
-- Utilizar o Google IA Studio para prototipar prompts com modelos generativos do Google
-- Conectar o Gemini API ao Python com o Google Colab
-- Criar um chatbot e um sistema de busca de documentos com o Gemini API
+- ### Imersão Inteligência Artificial
+  <pre>
+  Usar o Gemini, com exemplos práticos de modelos de IA do Google
+  Criar prompts profissionais para obter respostas assertivas da IA
+  Utilizar o Google IA Studio para prototipar prompts com modelos generativos do Google
+  Conectar o Gemini API ao Python com o Google Colab
+  Criar um chatbot e um sistema de busca de documentos com o Gemini API
+  </pre>
 
 <a name="ingles-1"></a>
-### Inglês 1
-Identificação e caracterização pessoal, localização no tempo e no espaço.
+- ### Inglês 1
+  <pre>Identificação e caracterização pessoal, localização no tempo e no espaço.</pre>
 
 <a name="trilha-fluencia"></a>
-### Trilha fluêncIA
-- A História da Inteligência Artificial
-- Inteligência Artificial Generativa
-- A Evolução das buscas Online
-- Como ser mais Produtivo usando o Bing Chat
-- Ética em Inteligência Artificial
+- ### Trilha fluêncIA
+  <pre>
+  A História da Inteligência Artificial
+  Inteligência Artificial Generativa
+  A Evolução das buscas Online
+  Como ser mais Produtivo usando o Bing Chat
+  Ética em Inteligência Artificial
+  </pre>
 
 <a name="nlw-unite-nodejs"></a>
-### NLW Unite - Nodejs
+- ### NLW Unite - Nodejs
 - Desenvolvimento de aplicação back-end em Node.js
 - Aplicação dos conceitos de API REST
 - Utilização de TypeScript
@@ -200,61 +220,70 @@ Descobrir os fundamentos do React e sua abordagem baseada em componentes para o 
 Dominar os conceitos fundamentais do TypeScript, incluindo tipagem estática, interfaces e decoradores.
 
 <a name="curso-introducao-ao-git-e-github"></a>
-### Curso Introdução ao Git e Github
-- Explorar os conceitos fundamentais do controle de versão e entender por que o Git se tornou tão popular.
-- Aprender a configurar repositórios, criar branches e mesclar código de forma organizada.
-- Descobrir como usar o GitHub para hospedar seus projetos, colaborar com outros desenvolvedores e gerenciar problemas.
+- ### Curso Introdução ao Git e Github
+  <pre>
+  Explorar os conceitos fundamentais do controle de versão e entender por que o Git se tornou tão popular.
+  Aprender a configurar repositórios, criar branches e mesclar código de forma organizada.
+  Descobrir como usar o GitHub para hospedar seus projetos, colaborar com outros desenvolvedores e gerenciar problemas.
+  </pre>
 
 <a name="fundamentos-de-banco-de-dados"></a>
-### Fundamentos de Banco de Dados
-- Introdução aos Sistemas de Bancos de Dados
-- Banco de Dados x SGBD´s
-- Prática sobre MER Conceitual
-- Tipos de Relacionamentos e Estabelecimento de Chaves
-- Desenvolvimento do MER Lógico e Físico
-- Linguagem SQL - Comandos DDL, DML e DQL
-- Consulta com Funções de uma única Linha
-- Joins
-- Funções de Grupo e Subconsultas
+- ### Fundamentos de Banco de Dados
+  <pre>
+  Introdução aos Sistemas de Bancos de Dados
+  Banco de Dados x SGBD´s
+  Prática sobre MER Conceitual
+  Tipos de Relacionamentos e Estabelecimento de Chaves
+  Desenvolvimento do MER Lógico e Físico
+  Linguagem SQL - Comandos DDL, DML e DQL
+  Consulta com Funções de uma única Linha
+  Joins
+  Funções de Grupo e Subconsultas
+  </pre>
 
 <a name="organizacao-de-produtividade-remota"></a>
-### Organização de Produtividade Remota
-- Menos é Melhor
-- Ferramentas de Produtividade Remota
-- Técnicas de Organização de Tempo
-- Neutralize seu maior Inimigo
-- Saúde Física e Mental
-- Rotinas Inteligentes
-- Técnicas para Potencializar Resultados
-- Gestão de Tempo 
+- ### Organização de Produtividade Remota
+  <pre>Menos é Melhor
+  Ferramentas de Produtividade Remota
+  Técnicas de Organização de Tempo
+  Neutralize seu maior Inimigo
+  Saúde Física e Mental
+  Rotinas Inteligentes
+  Técnicas para Potencializar Resultados
+  Gestão de Tempo 
+  </pre>
 
 <a name="php-mysql-iniciante"></a>
-### PHP - MYSQL - INICIANTE
-- Preparação do ambiente: Eclipse, Xampp
-- Criação de projeto PHP, teste de código
-- Controle de fluxo e estruturas em PHP
-- Conexão PHP-MySQL via linha de comando
-- Integração: PHP, PHPMyAdmin, MySQL, HTML
-- Execução de comandos MySQL no navegador
+- ### PHP - MYSQL - INICIANTE
+  <pre>
+  Preparação do ambiente: Eclipse, Xampp
+  Criação de projeto PHP, teste de código
+  Controle de fluxo e estruturas em PHP
+  Conexão PHP-MySQL via linha de comando
+  Integração: PHP, PHPMyAdmin, MySQL, HTML
+  Execução de comandos MySQL no navegador
+  </pre>
 
 <a name="javascript-para-iniciantes"></a>
-### Javascript Para Iniciantes
-Variáveis, constantes, tipos, objetos, arrays, functions, operadores, loops, etc.
+- ### Javascript Para Iniciantes
+  <pre>Variáveis, constantes, tipos, objetos, arrays, functions, operadores, loops, etc.</pre>
 
 <a name="cc50-introducao-a-ciencia-da-computacao"></a>
-### CC50: Introdução à Ciência da Computação
-- Compreendendo conceitos básicos de programação com Scratch
-- Linguagem C
-- Arrays
-- Algoritmos
-- Memória
-- Estruturas de Dados
-- Python
-- SQL
-- HTML, CSS e JavaScript
-- Flask
-- Ética
+- ### CC50: Introdução à Ciência da Computação
+  <pre>
+  Compreendendo conceitos básicos de programação com Scratch
+  Linguagem C
+  Arrays
+  Algoritmos
+  Memória
+  Estruturas de Dados
+  Python
+  SQL
+  HTML, CSS e JavaScript
+  Flask
+  Ética
+  </pre>
 
 <a name="formacao-design-grafico"></a>
-### Formação Design Gráfico
-Adobe Photoshop avançado.
+- ### Formação Design Gráfico
+  <pre>Adobe Photoshop avançado.</pre>
