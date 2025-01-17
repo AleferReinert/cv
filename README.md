@@ -121,15 +121,15 @@ Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobil
   Faça as perguntas certas para ter ótimas respostas da IA
   Case ZTX-Labs: como uma empresa foi criada do zero com o uso do ChatGPT
   Facilite seu dia a dia com ChatGPT, Gemini e Copilot
-  <i>Bônus: Desvendando o ChatGPT4 Omni</i>
-  <i>Bônus: Transforme o medo da IA em vontade de aprender</i>
+  Bônus: Desvendando o ChatGPT4 Omni
+  Bônus: Transforme o medo da IA em vontade de aprender
     
   <b>Eleve sua produtividade com IA</b>
   Construção de textos assertivos e de maneira mais ágil
   Ferramentas para tornar suas reuniões mais produtivas
   Automatização de tarefas repetitivas
-  <i>Bônus: IA em ação: cases profissionais de sucesso</i>
-  <i>Bônus: Como aproveitar no trabalho as facilidades que a IA proporciona</i>
+  Bônus: IA em ação: cases profissionais de sucesso
+  Bônus: Como aproveitar no trabalho as facilidades que a IA proporciona
     
   <b>IA como aliada ao processo criativo</b>
   Geração, priorização e seleção de ideias usando IA
@@ -142,7 +142,7 @@ Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobil
   Como melhorar a autogestão usando a IA
   Ferramentas para aumentar repertório e acelerar o aprendizado
   Plano para aplicação de IA na sua rotina
-  <small><i>Bônus: Como integrar as inteligências humana e artificial</i></small>
+  Bônus: Como integrar as inteligências humana e artificial
     
   <b>3 estratégias para ser um profissional de destaque na era da IA</b>
   Masterclass online
