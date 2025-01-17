@@ -77,7 +77,7 @@ Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobil
   
 <a name="inteligencia-emocional-na-pratica"></a>
 - ### Inteligência Emocional na Prática
-  ```<code><b>Introdução ao curso</b>
+  <pre><code><b>Introdução ao curso</b>
   O que é Inteligência Emocional 
   Seus componentes e competências 
   Teste de Inteligência Emocional
@@ -101,7 +101,7 @@ Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobil
   Aprenda sobre comunicação 
   Gestão de conflitos 
   Influência e inspiração
-  </code>```
+  </code></pre>
 
 <a name="nlw-journey-reactjs"></a>
 - ### NLW Journey - Reactjs
@@ -117,7 +117,7 @@ Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobil
 
 <a name="inteligencia-artificial"></a>
 - ### Inteligência Artificial
-  ```<code>
+  <pre><code>
   <b>Estratégias para dominar IA</b>
   Como não ser substituído(a) pela IA
   A inteligência por trás da IA
@@ -149,7 +149,7 @@ Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobil
     
   <b>3 estratégias para ser um profissional de destaque na era da IA</b>
   Masterclass online
-  </code>```
+  </code></pre>
 
 <a name="trilha-digital-coders-24"></a>
 - ### Trilha Digital - Coders 24 - Front End
