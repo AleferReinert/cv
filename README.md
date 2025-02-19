@@ -1,16 +1,16 @@
 # CV Alefer Reinert
 
 ## Navegação
-* [Sobre mim](#dados-e-contatos)
-* [Resumo](#resumo-profissional)
-* [Objetivo](#objetivo-profissional)
-* [Experiências](#experiência-profissional)
-* [Formação acadêmica](#formação-acadêmica)
-* [Formação complementar](#formação-complementar)
+* [Contato](#contato)
+* [Resumo Profissional](#resumo-profissional)
+* [Objetivo Profissional](#objetivo-profissional)
+* [Experiência Profissional](#experiência-profissional)
+* [Formação Acadêmica](#formação-acadêmica)
+* [Formação Complementar](#formação-complementar)
 * [Idiomas](#idiomas)
 * [Habilidades](#habilidades)
 
-## Dados e contatos
+## Contato
 - Lagoa, Gaspar - SC
 - [aleferreinert@gmail.com](mailto:aleferreinert@gmail.com)
 - [(47) 99955-8118](https://wa.me/5547999558118)
