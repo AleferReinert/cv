@@ -48,7 +48,7 @@ Atuar como desenvolvedor front-end.
 
 ## Formação complementar
 
-Curso                                    | Instituição         | Mês/Ano        | Carga Horária | Descrição 
+Curso                                    | Instituição         | Conclusão      | Carga Horária | Descrição 
 -----------------------------------------|---------------------|----------------|---------------|----------
 Inteligência Emocional 4.0               | Conquer             | Fevereiro/2025 | 10h           | [Visualizar](#inteligencia-emocional-4-0) 
 Inteligência Emocional na Prática        | Fundação Estudar    | Outubro/2024   | 6h            | [Visualizar](#inteligencia-emocional-na-pratica) 
