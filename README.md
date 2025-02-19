@@ -37,7 +37,7 @@ Atuar como desenvolvedor front-end.
 
 Curso                                    | Instituição         | Mês/Ano        | Carga Horária | Descrição 
 -----------------------------------------|---------------------|----------------|---------------|----------
-Inteligência Emocional 4.0               | Conquer             | Outubro/2024   | 10h           | [Visualizar](#inteligencia-emocional-4-0) 
+Inteligência Emocional 4.0               | Conquer             | Fevereiro/2025 | 10h           | [Visualizar](#inteligencia-emocional-4-0) 
 Inteligência Emocional na Prática        | Fundação Estudar    | Outubro/2024   | 6h            | [Visualizar](#inteligencia-emocional-na-pratica) 
 NLW Journey - ReactJS                    | Rocketseat          | Julho/2024     | 4h            | [Visualizar](#nlw-journey-reactjs) 
 Inteligência Artificial                  | Conquer             | Junho/2024     | 10h           | [Visualizar](#inteligencia-artificial) 
