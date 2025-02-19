@@ -4,9 +4,9 @@
 * [Sobre mim](#dados-e-contatos)
 * [Resumo](#resumo-profissional)
 * [Objetivo](#objetivo-profissional)
-* [Experiências](#experiencia-profissional)
-* [Formação acadêmica](#formacao-academica)
-* [Formação complementar](#formacao-complementar)
+* [Experiências](#experiência-profissional)
+* [Formação acadêmica](#formação-acadêmica)
+* [Formação complementar](#formação-complementar)
 * [Idiomas](#idiomas)
 * [Habilidades](#habilidades)
 
