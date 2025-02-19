@@ -9,6 +9,7 @@
 * [Formação Complementar](#formação-complementar)
 * [Idiomas](#idiomas)
 * [Habilidades](#habilidades)
+* [Descrições dos cursos](#descrições-dos-cursos)
 
 ## Contato
 - Lagoa, Gaspar - SC
