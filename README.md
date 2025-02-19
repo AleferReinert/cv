@@ -2,11 +2,11 @@
 
 ## Navegação
 * [Contato](#contato)
-* [Resumo Profissional](#resumo-profissional)
-* [Objetivo Profissional](#objetivo-profissional)
-* [Experiência Profissional](#experiência-profissional)
-* [Formação Acadêmica](#formação-acadêmica)
-* [Formação Complementar](#formação-complementar)
+* [Resumo profissional](#resumo-profissional)
+* [Objetivo profissional](#objetivo-profissional)
+* [Experiência profissional](#experiência-profissional)
+* [Formação acadêmica](#formação-acadêmica)
+* [Formação complementar](#formação-complementar)
 * [Idiomas](#idiomas)
 * [Habilidades](#habilidades)
 * [Descrições dos cursos](#descrições-dos-cursos)
@@ -19,15 +19,15 @@
 - [http://linkedin.com/in/aleferreinert](http://linkedin.com/in/aleferreinert)
 - [https://aleferreinert.vercel.app](https://aleferreinert.vercel.app)
 
-## Resumo Profissional
+## Resumo profissional
 Desenvolvedor front-end com mais de 8 anos de experiência em aplicações web como sites e e-commerces, tanto para empresas quanto para projetos pessoais.  
 Possui como principais habilidades React, Next.js, TypeScript, Tailwind, Storybook e Testing Library.  
 Além do front-end, tem se aprofundado também em back-end utilizando Apollo, GraphQL e Strapi.
 
-## Objetivo Profissional
+## Objetivo profissional
 Atuar como desenvolvedor front-end.
 
-## Experiência Profissional
+## Experiência profissional
 - Uoou Solutions - Desenvolvedor Front-End - 07/2019 a 01/2022
   ```
     Desenvolvimento e manutenção de e-commerces a partir de layouts pré-definidos em Photoshop.
@@ -43,10 +43,10 @@ Atuar como desenvolvedor front-end.
     Utilização de Less, JQuery, Grunt, Bootstrap, Photoshop e contato com PHP.
   ```
 
-## Formação Acadêmica
+## Formação acadêmica
 - Ensino Médio - E. E. B. Professor Honório Miranda - 2008 a 2010
 
-## Formação Complementar
+## Formação complementar
 
 Curso                                    | Instituição         | Mês/Ano        | Carga Horária | Descrição 
 -----------------------------------------|---------------------|----------------|---------------|----------
