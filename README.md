@@ -79,10 +79,39 @@ Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobil
 <a name="inteligencia-emocional-4-0"></a>
 - ### Inteligência Emocional 4.0
   <pre><code><b>Autoconhecimento para controle emocional</b>
+  Boas-vindas ao curso de Inteligência Emocional 4.0
+  O poder das emoções no alcance dos objetivos
+  Como identificar e compreender as próprias emoções
+  Técnicas para autorregulação e gerenciamento de estresse
+  Conheça seus sabotadores
+  Pilares da inteligência emocional na prática
+  Bônus: Autoestima: tenha uma visão mais positiva de si mesmo(a)
+    
   <b>Entenda tudo sobre as pessoas</b>
+  Como desenvolver a empatia e fortalecer as relações
+  Técnicas para resolver conflitos
+  Desenvolva escuta ativa e ganhe confiança
+  Como expressar emoções negativas
+  Comunicação assertiva e o método TAMP
+  Bônus: Seu papel na construção de ambientes produtivos
+    
   <b>Solucione problemas e tome decisões eficazes</b>
+  Estratégias para estruturar problemas e identificar soluções
+  Domine seus estressores para tomar as melhores decisões
+  Seja assertivo(a) na tomada de decisão: o método DECIDE
+  Como explorar a criatividade em situações desafiadoras
+  Bônus: Utilização de IA para aprimorar a inteligência emocional
+  Bônus: Importância da inteligência emocional para a carreira
+    
   <b>Transforme incertezas em oportunidades</b>
+  Como lidar com mudanças inesperadas
+  Técnicas para aumentar a adaptabilidade
+  Tenha protagonismo para mudar
+  Desenvolva mentalidade antifrágil e cresça na adversidade
+  Como sustentar o progresso do desenvolvimento emocional
+  Bônus: Vença a ansiedade e supere o medo do fracasso
   </code></pre>
+
 <a name="inteligencia-emocional-na-pratica"></a>
 - ### Inteligência Emocional na Prática
   <pre><code><b>Introdução ao curso</b>
