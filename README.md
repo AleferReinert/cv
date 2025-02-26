@@ -92,21 +92,21 @@ Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobil
   
 <a name="nlw-connect-react"></a>
 - ### NLW Connect - React
- ```
-  Fundamentos do React
-  Fundamentos do Next.js
-  Padrão de composição de componentes
-  Estilização com Tailwind
-  Roteamento com App Router
-  Server Components
-  Client Components
-  Formulários com React Hook
-  Form
-  Criação de cliente HTTP com Orval
-  Configuração de toolchain com Biome
-  Validação com Zod
-  Tipagem com Typescript
-  ```
+    ```
+    Fundamentos do React
+    Fundamentos do Next.js
+    Padrão de composição de componentes
+    Estilização com Tailwind
+    Roteamento com App Router
+    Server Components
+    Client Components
+    Formulários com React Hook
+    Form
+    Criação de cliente HTTP com Orval
+    Configuração de toolchain com Biome
+    Validação com Zod
+    Tipagem com Typescript
+    ```
 
 <a name="inteligencia-emocional-4-0"></a>
 - ### Inteligência Emocional 4.0
