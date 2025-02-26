@@ -50,6 +50,7 @@ Atuar como desenvolvedor front-end.
 
 Curso                                    | Instituição         | Conclusão      | Carga Horária | Descrição 
 -----------------------------------------|---------------------|----------------|---------------|----------
+NLW Connect - React                      | Rocketseat          | Fevereiro/2025 | 5h            | [Visualizar](#nlw-connect-react) 
 Inteligência Emocional 4.0               | Conquer             | Fevereiro/2025 | 10h           | [Visualizar](#inteligencia-emocional-4-0) 
 Inteligência Emocional na Prática        | Fundação Estudar    | Outubro/2024   | 6h            | [Visualizar](#inteligencia-emocional-na-pratica) 
 NLW Journey - ReactJS                    | Rocketseat          | Julho/2024     | 4h            | [Visualizar](#nlw-journey-reactjs) 
@@ -89,6 +90,24 @@ Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobil
 ---
 ## Descrições dos cursos
   
+<a name="nlw-connect-react"></a>
+- ### NLW Connect - React
+ ```
+  Fundamentos do React
+  Fundamentos do Next.js
+  Padrão de composição de componentes
+  Estilização com Tailwind
+  Roteamento com App Router
+  Server Components
+  Client Components
+  Formulários com React Hook
+  Form
+  Criação de cliente HTTP com Orval
+  Configuração de toolchain com Biome
+  Validação com Zod
+  Tipagem com Typescript
+  ```
+
 <a name="inteligencia-emocional-4-0"></a>
 - ### Inteligência Emocional 4.0
   <pre><code><b>Autoconhecimento para controle emocional</b>
