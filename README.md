@@ -51,7 +51,7 @@ Atuar como desenvolvedor front-end.
 Curso                                    | Instituição         | Conclusão      | Carga Horária | Descrição 
 -----------------------------------------|---------------------|----------------|---------------|----------
 NLW Connect - React                      | Rocketseat          | Fevereiro/2025 | 5h            | [Visualizar](#nlw-connect-react) 
-Inteligência Emocional 4.0               | Conquer             | Fevereiro/2025 | 10h           | [Visualizar](#inteligencia-emocional-4-0) 
+Inteligência emocional 4.0               | Conquer             | Fevereiro/2025 | 10h           | [Visualizar](#inteligencia-emocional-4-0) 
 Inteligência Emocional na Prática        | Fundação Estudar    | Outubro/2024   | 6h            | [Visualizar](#inteligencia-emocional-na-pratica) 
 NLW Journey - ReactJS                    | Rocketseat          | Julho/2024     | 4h            | [Visualizar](#nlw-journey-reactjs) 
 Inteligência Artificial                  | Conquer             | Junho/2024     | 10h           | [Visualizar](#inteligencia-artificial) 
@@ -87,7 +87,7 @@ Back-end/CMS                | Node.js, MongoDB, Python, PHP, GraphQL, Apollo, St
 Testes                      | Testing Library, Storybook 
 Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobile first) 
 
----
+
 ## Descrições dos cursos
   
 <a name="nlw-connect-react"></a>
@@ -109,7 +109,7 @@ Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobil
     ```
 
 <a name="inteligencia-emocional-4-0"></a>
-- ### Inteligência Emocional 4.0
+- ### Inteligência emocional 4.0
   <pre><code><b>Autoconhecimento para controle emocional</b>
   Boas-vindas ao curso de Inteligência Emocional 4.0
   O poder das emoções no alcance dos objetivos
