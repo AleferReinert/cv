@@ -82,7 +82,7 @@ Formação Design Gráfico                  | ProWay Informática  | Fevereiro/2
 ----------------------------|------------
 Front-end                   | Bootstrap, Styled Components, Tailwind, CSS, Sass, Less, HTML, JavaScript, TypeScript, React, Next.js, JQuery, Git, GitHub Grunt, Gulp 
 Ferramentas                 | Figma, Photoshop 
-Inteligência Artificial     | Google AI Studio, OpenAI, GitHub Copilot 
+Inteligência Artificial     | Google AI Studio, OpenAI, GitHub Copilot, Codeium
 Back-end/CMS                | Node.js, MongoDB, Python, PHP, GraphQL, Apollo, Strapi 
 Testes                      | Testing Library, Storybook 
 Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobile first) 
