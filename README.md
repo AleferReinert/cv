@@ -50,6 +50,7 @@ Atuar como desenvolvedor front-end.
 
 Curso                                    | Instituição         | Conclusão      | Carga Horária | Descrição 
 -----------------------------------------|---------------------|----------------|---------------|----------
+NLW Connect - Nodejs                     | Rocketseat          | Fevereiro/2025 | 5h            | [Visualizar](#nlw-connect-nodejs) 
 NLW Connect - React                      | Rocketseat          | Fevereiro/2025 | 5h            | [Visualizar](#nlw-connect-react) 
 Inteligência emocional 4.0               | Conquer             | Fevereiro/2025 | 10h           | [Visualizar](#inteligencia-emocional-4-0) 
 Inteligência Emocional na Prática        | Fundação Estudar    | Outubro/2024   | 6h            | [Visualizar](#inteligencia-emocional-na-pratica) 
@@ -90,6 +91,19 @@ Práticas de Desenvolvimento | Acessibilidade, clean code, responsividade (mobil
 
 ## Descrições dos cursos
   
+<a name="nlw-connect-nodejs"></a>
+- ### NLW Connect - Nodejs
+    ```
+    Aplicação back-end em Node.js
+    Conceitos de API REST
+    TypeScript
+    Fastify como framework
+    Integração do Drizzle ORM
+    Docker para lidar com serviços de PostgreSQL e Redis
+    Zod para validação de dados
+    Documentação com Swagger
+    ```
+    
 <a name="nlw-connect-react"></a>
 - ### NLW Connect - React
     ```
